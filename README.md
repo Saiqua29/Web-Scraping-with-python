@@ -1,7 +1,7 @@
 
 # 📊 Web Scraper: List of Largest Companies in India
 
-![Webscraping in Python]()
+![Webscraping in Python](https://github.com/Saiqua29/Web-Scraping-with-python/blob/main/web%20scraping.jpg)
 
 This project demonstrates how to **scrape structured data from a Wikipedia page** using Python and convert it into a clean, usable CSV file using the `BeautifulSoup`, `requests`, and `pandas` libraries.
 
