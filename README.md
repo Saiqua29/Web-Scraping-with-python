@@ -1,7 +1,7 @@
 
 # 📊 Web Scraping a Wikipedia page in Python
 
-![Webscraping in Python](https://github.com/Saiqua29/Web-Scraping-with-python/blob/main/web%20scraping.jpg)
+![Webscraping in Python](https://github.com/Saiqua29/Web-Scraping-with-python/blob/main/ws.png)
 
 This project demonstrates how to **scrape structured data from a Wikipedia page** using Python and convert it into a clean, usable CSV file using the `BeautifulSoup`, `requests`, and `pandas` libraries.
 
