@@ -1,5 +1,5 @@
 
-# 📊 Web Scraping a Wikipedia page showing a list of largest companies in India 
+# 📊 Web Scraping a Wikipedia page in Python
 
 ![Webscraping in Python](https://github.com/Saiqua29/Web-Scraping-with-python/blob/main/web%20scraping.jpg)
 
